@@ -1,5 +1,5 @@
 ### Hey, I'm Erik ✌
-I am a Software Developer in the New England area looking to make the world a better place. 
+I am a Software Engineer in the New England area looking to make the world a better place. 
 
 - 🔭 I’m currently working on myself and contributing to open source
 - 🌱 I’m currently learning Vue.js, .NET Core, and Blockchain
