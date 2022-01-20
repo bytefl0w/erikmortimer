@@ -1,6 +1,8 @@
-### Hey, I'm Erik 
-Software Developer/Cyber Engineer in the New England area
+<h1>Hey 👋, I'm Erik</h1>
 
-- 🔭 Working on creating multi-platform applications, implementing blockchain technologies, contributing to open source, and improve secure coding practices.
-- 🌱 Learning .NET Core (Blazer and MAUI), Azure, Solidity, and Rust
-- ETH: erikmortimer.eth
+- 🌱 I’m currently learning **Kali Linux, Azure, and Rust**
+
+- 📝 Check out blog: [https://www.erikmortimer.dev/](https://www.erikmortimer.dev/)
+
+- 📫 How to reach me **hello@erikmortimer.dev**
+
