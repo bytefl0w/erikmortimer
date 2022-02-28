@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Erik</h1>
+<h1>Hey, I'm Erik 👋</h1>
 
 - 🌱 I’m currently learning **Kali Linux, Azure, and Rust**
 
